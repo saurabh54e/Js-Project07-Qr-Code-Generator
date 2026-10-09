@@ -1,6 +1,6 @@
-Day 7/30 – QR Code Generator
+Project 3 of my 30 JavaScript Projects Challenge. – QR Code Generator
 
-As part of my 30 Days JavaScript Challenge, I built a clean and interactive **QR Code Generator** using Vanilla JavaScript that allows users to instantly convert text or URLs into QR codes with download functionality.
+As part of my 30 Projects JavaScript Challenge, I built a clean and interactive **QR Code Generator** using Vanilla JavaScript that allows users to instantly convert text or URLs into QR codes with download functionality.
 
 This project focuses on API integration, dynamic DOM updates, and improving user experience with responsive UI and utility features.
 
@@ -50,7 +50,7 @@ QR Code API (api.qrserver.com)
 
 🌐 Live Demo
 
-👉 (https://saurabh54e.github.io/Js-Day07-Qr-Code-Generator/)
+👉 (https://saurabh54e.github.io/Js-Projects07-Qr-Code-Generator/)
 
 ---
 

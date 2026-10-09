@@ -53,13 +53,13 @@ The application uses API integration and dynamic DOM manipulation to generate an
 
 ## Live Demo
 
-https://saurabh54e.github.io/Js-Projects07-Qr-Code-Generator/)
+https://saurabh54e.github.io/Js-Project07-Qr-Code-Generator/)
 
 ---
 
 ## GitHub Repository
 
-(https://github.com/saurabh54e/Js-Projects07-Qr-Code-Generator/)
+(https://github.com/saurabh54e/Js-Project07-Qr-Code-Generator/)
 
 ---
 
